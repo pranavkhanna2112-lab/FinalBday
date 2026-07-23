@@ -109,7 +109,7 @@ function launchCelebration(){
     d.style.fontSize='48px';
     d.style.pointerEvents='none';
     document.body.appendChild(d);
-    setTimeout(()=>d.remove(),1800);
+    setTimeout(()=>d.remove(),900);
    },i*150);
  }
 }
