@@ -37,13 +37,14 @@ function chat(){
 app.innerHTML=`<div class="screen"><div id="chat" class="chat"></div><button id="c" class="btn hidden">Continue ❤️</button></div>`;
 const msgs=[
 "Happy Birthday Yoshu ❤️",
-"I wanted this to feel different.",
-"So I built this chat instead of sending a boring text 😊",
-"And this is what I have been doing at night at 2 am for the past weeks",
-"Now I know you are a control freak and you want everything according to you",
-"but tomorrow, after HYROX, I have something small planned for you",
-"and you already know half of the gifts but I am sure this will make you happy",
-"Click on Continue to start the countdown ❤️"
+"I wanted this to feel a little different.",
+"So instead of sending you another boring text...I built this. 😊",
+"And yes, This is what I've been working on at 2 AM for the past weeks.",
+"I know you like everything to be just right...(Yes, you're a tiny bit of a control freak 😌)",
+"But tomorrow, after HYROX, I have something special planned for you.",
+"You already know about half the gifts...but I'm pretty sure this part will surprise you. ❤️",
+"Ready?",
+"Tap Continue to start the countdown. ❤️"
 ];
 let i=0,c=id("chat");
 function next(){
