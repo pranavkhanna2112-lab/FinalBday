@@ -39,7 +39,7 @@ const msgs=[
 "Happy Birthday Yoshu ❤️",
 "I wanted this to feel a little different.",
 "So instead of sending you another boring text...I built this. 😊",
-"And yes, This is what I've been working on at 2 AM for the past weeks.",
+"And yes, This is what I've been GENERALLY working on at 2 AM for the past weeks.",
 "I know you like everything to be just right...(Yes, you're a tiny bit of a control freak 😌)",
 "But tomorrow, after HYROX, I have something special planned for you.",
 "You already know about half the gifts...but I'm pretty sure this part will surprise you. ❤️",
@@ -71,7 +71,7 @@ app.innerHTML=`<div class="screen">
 <div class="logo" style="font-size:54px">Dear Little Creepy Noni</div>
 <div class="subtitle">The Surprise Begins In</div>
 <div id="t" class="time"></div>
-<div class="subtitle">Lemon Tree - Booked ✓<br>Party Planning - Done (Almost) ✓<br>Gifts - Ready  ✓<br><br>The only thing missing... You and you pretty litte ass ❤️</div>
+<div class="subtitle">Venu - Booked ✓<br>Party Planning - Done (Almost) ✓<br>Gifts - Ready  ✓<br><br>The only thing missing... You and your pretty litte ass ❤️</div>
 <button id="b" class="btn hidden">I Love You!! Check your Whatsapp</button></div>`;
 function tick(){
  let d=target-new Date();
